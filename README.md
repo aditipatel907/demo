@@ -1,2 +1,2 @@
 # demo
-First Git Repository
+New demo Git Repository
